@@ -16,4 +16,5 @@
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/mb886/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
-    vendor/motorola/mb886/proprietary/etc/firmware/melfas_45_7_15.fw:system/etc/firmware/melfas_45_7_15.fw
+    vendor/motorola/mb886/proprietary/etc/firmware/atmxt-r1.tdat:system/etc/firmware/atmxt-r1.tdat \
+    vendor/motorola/mb886/proprietary/etc/firmware/atmxt-r2.tdat:system/etc/firmware/atmxt-r2.tdat
